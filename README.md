@@ -1,1 +1,1 @@
-# [Books For the WIRED](https://thewired.github.io)
+# [Books For the WIRED](https://vanillafx.github.io/wired/)
