@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(6, 0, 92);
+    text-align: left;
+}
+
+a:link {
+    color: inherit;
+}
+
+header {
+    font-family: 'Katibeh';
+    font-size: 24px;
+}
+
+body {
+    color: white;
+    font-family: 'Anonymous Pro';
+
+}
+
+p {
+    font-size: 15px;
+    
+}
+
+li {
+    font-size: 18px;
+}
